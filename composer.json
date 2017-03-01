@@ -1,0 +1,21 @@
+{
+    "name": "phillee/aliyunmns",
+    "description": "Aliyun MNS",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "~6.2.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Phil",
+            "email": "lee_phil@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"AliyunMNS\\": ""
+		}
+	}
+}
